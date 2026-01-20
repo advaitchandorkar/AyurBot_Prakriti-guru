@@ -1,0 +1,6 @@
+.DS_Store
+.env
+AYURVEDA CHATBOT/.env
+AYURVEDA CHATBOT/frontend/node_modules
+AYURVEDA CHATBOT/frontend/dist
+AYURVEDA CHATBOT/static/app
